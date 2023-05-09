@@ -1,0 +1,15 @@
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/kyliepaykoff/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
